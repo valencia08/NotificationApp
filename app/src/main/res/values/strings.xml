@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notificationApp</string>
+    <string name="question">Push this button</string>
+    <string name="response">Hello World!</string>
+</resources>
